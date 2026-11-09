@@ -1,0 +1,26 @@
+{
+ "wid": "mobile-suit-gundam-thunderbolt",
+ "anilistId": 21458,
+ "name": "Mobile Suit Gundam: Thunderbolt",
+ "totalEpisodes": 4,
+ "repo": "adiytharpansa/jdhbwadhrnya",
+ "pin": "3c4c4ccc28777015f58b48918ff0d3f8f58aee29",
+ "subs": {
+  "1": [
+   "en",
+   "id"
+  ],
+  "2": [
+   "en",
+   "id"
+  ],
+  "3": [
+   "en",
+   "id"
+  ],
+  "4": [
+   "en",
+   "id"
+  ]
+ }
+}
